@@ -1,10 +1,10 @@
-import Coin from "./Coin";
+import CoinDisplay from "./CoinDisplay";
 import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <Coin />
+      <CoinDisplay />
     </div>
   );
 }
